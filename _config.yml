@@ -1,9 +1,8 @@
 logo: # add logo name
 title: GreenMindLabs - Security
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Olá eu sou o GreenMind , apaixonado e amante da tecnologia tenho como meta compartilhar o meu dia a dia e tentar ajudar pessoas que assim como eu também está iniciando nessa loucura que é o mundo l33t.
+
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aluno-green.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
